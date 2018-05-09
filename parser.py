@@ -1,5 +1,4 @@
 # Monday, January 29, 2018
-# CMPUT 296 Assignment 1
 # Araien Redfern
 
 # A URL parser that should behave close to urllib, however,
